@@ -31,6 +31,5 @@ html {
 .chat {
   bottom: 0;
   right: 0;
-  position: -webkit-sticky;
-  position: sticky;
+  position: fixed;
 }
